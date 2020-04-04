@@ -1,11 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.less';
+import React from "react";
+import "./App.less";
 function App() {
-  return (
-    <div className="App">
-      11
-    </div>
-  );
+  return <div>121156</div>;
 }
 export default App;
