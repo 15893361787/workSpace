@@ -1,5 +1,5 @@
 {
-  "name": "react-ts",
+  "name": "reacttscodeing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -144,5 +144,7 @@
   "devDependencies": {
     "less": "^3.11.1",
     "less-loader": "^5.0.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
