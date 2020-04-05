@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./App.module.less";
-console.log(styles);
-function App() {
+function App(props: { name?: string; age?: number }) {
   return <div className={styles["App"]}>123456</div>;
 }
 
